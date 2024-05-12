@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">QRBarCodeScanner</string>
+    <string name="label_response">Get Response</string>
+</resources>
